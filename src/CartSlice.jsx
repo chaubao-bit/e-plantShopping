@@ -1,8 +1,3 @@
-Here is the completed `CartSlice.jsx` file with the implemented reducers for adding items, removing items, and updating their quantities.
-
-### `CartSlice.jsx`
-
-```javascript
 import { createSlice } from '@reduxjs/toolkit';
 
 export const CartSlice = createSlice({
